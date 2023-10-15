@@ -1,0 +1,135 @@
+
+
+.container1{
+    background-color:white;
+    height: 170px;
+}
+.ptext{
+    text-align: center;
+}
+.container1 h2{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.container1 button{
+    background-color: rgb(0, 183, 255);
+    text-align: center;
+    margin-left: 600px;
+}
+.container1 img{
+    margin-bottom: 450px;
+    margin-left: 850px;
+    margin-top: -270px;
+}
+.containerTwo{
+    background-image: url("bg.jpg");
+    background-color: white;
+    height: 300px;
+
+}
+.SixtySeven
+{
+    margin-top: -220px;
+    margin-left: 200px;
+    color: white;
+    font-size: 30px;
+}
+.purchare
+{
+    margin-left: 190px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.perct{
+    margin-left: 190px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Ninty
+{
+    text-align: center;
+    margin-top: -95px;
+    /* margin-left: 200px; */
+    color: white;
+    font-size: 30px;
+}
+.multi
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+.intent
+{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sixty
+{
+    text-align: right;
+    margin-top: -95px;
+    color: white;
+    font-size: 30px;
+    margin-right: 220px;
+}
+.sad
+{
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 25px;
+    margin-right: 220px;
+}
+.frustated
+{
+    text-align: right;
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 220px;
+}
+.container3{
+    text-align: center;
+    height: 180px;
+    bottom:200px ;
+    margin-top: 150px;
+}
+.container3 button{
+    background-color: rgb(0, 183, 255);   
+
+}
+.container4{
+    background-color: white;
+    height: 500px;
+    text-align: center;
+    background-image: url("bg.jpg");
+    
+}
+.container4 ptext2{
+    margin-top: 200px;
+    
+}.container4 footer{
+    margin-bottom: 200px;
+}.container4 img{
+    max-width: 80%;
+    height: 250px;
+    margin-right: 350px;
+}
+.img{
+    margin-left: 730px;
+margin-top: -255px;
+}
+button
+{
+    width: 130px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: lightblue;
+}
